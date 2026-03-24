@@ -1,4 +1,4 @@
-# Olá, eu sou o Kelven 👋
+# Olá, eu sou o Kelven!
 
 Desenvolvedor em formação, natural de Manaus — AM. Curso o último ano de **Análise e Desenvolvimento de Sistemas** na Faculdade Martha Falcão, e minha trajetória na tecnologia começou antes mesmo da faculdade: cresci num ambiente de computadores graças à lan house da minha família, onde meu tio me ensinou os primeiros fundamentos de hardware e manutenção.
 
@@ -9,15 +9,16 @@ Tenho dois lados que se complementam: o **técnico** e o **criativo**. Fora do c
 ## 🛠️ Stack atual
 
 - **JavaScript** — meu foco principal no front-end
-- **Python** — onde consolidei minha base em lógica e análise de dados
-- **Java** — em aprendizado ativo
+- **Python** — onde consolidei minha base em lógica e estrutura de dados
 - **HTML & CSS** — fundamentos sólidos
+- **Java** — iniciando aprendizado
+
 
 ---
 
 ## 📚 Trajetória
 
-Comecei em Engenharia de Software na UFAM em 2019, precisei pausar para apoiar o negócio da família durante a pandemia, e retomei os estudos em 2023 pelo SENAC com foco em Desenvolvimento Web. Hoje estudo em paralelo pela plataforma Alura e estou no ato final da graduação.
+Comecei em Engenharia de Software na UFAM em 2019, precisei pausar para apoiar o negócio da família durante a pandemia, e retomei os estudos em 2023 pelo SENAC com foco em Desenvolvimento Web. Hoje estou no último ano de ADS pela Martha Falcão (Wyden) em paralelo aos cursos da Alura.
 
 Essa trajetória não linear me deu algo que não vem em nenhum curso: **maturidade, visão de processos e capacidade de lidar com responsabilidades reais sob pressão.**
 
