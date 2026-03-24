@@ -1,16 +1,34 @@
-## Hi there 👋
+# Olá, eu sou o Kelven 👋
 
-<!--
-**Kelven-Colombo/kelven-colombo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor em formação, natural de Manaus — AM. Curso o último ano de **Análise e Desenvolvimento de Sistemas** na Faculdade Martha Falcão, e minha trajetória na tecnologia começou antes mesmo da faculdade: cresci num ambiente de computadores graças à lan house da minha família, onde meu tio me ensinou os primeiros fundamentos de hardware e manutenção.
 
-Here are some ideas to get you started:
+Tenho dois lados que se complementam: o **técnico** e o **criativo**. Fora do código, componho músicas e me apresento com duas bandas — e acredito que estruturar uma música e estruturar um programa exigem o mesmo tipo de raciocínio: lógica, atenção aos detalhes e criatividade para resolver problemas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Stack atual
+
+- **JavaScript** — meu foco principal no front-end
+- **Python** — onde consolidei minha base em lógica e análise de dados
+- **Java** — em aprendizado ativo
+- **HTML & CSS** — fundamentos sólidos
+
+---
+
+## 📚 Trajetória
+
+Comecei em Engenharia de Software na UFAM em 2019, precisei pausar para apoiar o negócio da família durante a pandemia, e retomei os estudos em 2023 pelo SENAC com foco em Desenvolvimento Web. Hoje estudo em paralelo pela plataforma Alura e estou no ato final da graduação.
+
+Essa trajetória não linear me deu algo que não vem em nenhum curso: **maturidade, visão de processos e capacidade de lidar com responsabilidades reais sob pressão.**
+
+---
+
+## 🎯 Objetivo
+
+Estou em busca do meu **primeiro estágio em desenvolvimento** — de preferência back-end ou full-stack — onde eu possa aprender na prática, contribuir de verdade e crescer rápido.
+
+---
+
+## 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kelven_Colombo-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/kelven-colombo)
