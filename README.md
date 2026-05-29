@@ -1,32 +1,31 @@
 # Olá, eu sou o Kelven!
 
-Desenvolvedor em formação, natural de Manaus — AM. Curso o último ano de **Análise e Desenvolvimento de Sistemas** na Faculdade Martha Falcão, e minha trajetória na tecnologia começou antes mesmo da faculdade: cresci num ambiente de computadores graças à lan house da minha família, onde meu tio me ensinou os primeiros fundamentos de hardware e manutenção.
+Desenvolvedor em formação, natural de Manaus — AM. Curso o último ano de **Análise e Desenvolvimento de Sistemas** na Martha Falcão (Wyden). Minha trajetória na tecnologia começou antes da faculdade: cresci na linha de frente do negócio da minha família, onde consolidei na prática meus primeiros fundamentos de infraestrutura, hardware e resolução de problemas reais.
 
-Tenho dois lados que se complementam: o **técnico** e o **criativo**. Fora do código, componho músicas e me apresento com duas bandas — e acredito que estruturar uma música e estruturar um programa exigem o mesmo tipo de raciocínio: lógica, atenção aos detalhes e criatividade para resolver problemas.
+Tenho dois lados que se complementam: o **técnico** e o **criativo**. Fora do código, atuo como compositor e músico. Acredito que arquitetar um software e compor uma música exigem o mesmo raciocínio: lógica estrutural, atenção aos detalhes e criatividade para contornar problemas.
 
 ---
 
-## 🛠️ Stack atual
+## 🛠️ Stack Atual
 
-- **JavaScript** — meu foco principal no front-end
-- **Python** — onde consolidei minha base em lógica e estrutura de dados
-- **HTML & CSS** — fundamentos sólidos
-- **Java** — iniciando aprendizado
-
+- **JavaScript (Node.js, Express, React, Vite)** — foco em desenvolvimento Full-Stack e manipulação de fluxo.
+- **Python (Django) & Bancos Relacionais (SQL/MySQL)** — estruturação de back-end e análise exploratória.
+- **Java** — Programação Orientada a Objetos.
+- **Ferramentas:** Git, GitHub.
 
 ---
 
 ## 📚 Trajetória
 
-Comecei em Engenharia de Software na UFAM em 2019, precisei pausar para apoiar o negócio da família durante a pandemia, e retomei os estudos em 2023 pelo SENAC com foco em Desenvolvimento Web. Hoje estou no último ano de ADS pela Martha Falcão (Wyden) em paralelo aos cursos da Alura.
+Iniciei em Engenharia de Software na UFAM (2019), o que me garantiu uma base sólida em algoritmos e fundamentos de programação. Pausei para gerenciar as operações técnicas do negócio da família durante a pandemia e retomei os estudos com foco no desenvolvimento web moderno.
 
-Essa trajetória não linear me deu algo que não vem em nenhum curso: **maturidade, visão de processos e capacidade de lidar com responsabilidades reais sob pressão.**
+Essa vivência não linear me proporcionou algo que não vem em tutoriais: **maturidade operacional, visão de processos e capacidade de lidar com responsabilidades críticas sob pressão.**
 
 ---
 
 ## 🎯 Objetivo
 
-Estou em busca do meu **primeiro estágio em desenvolvimento** — de preferência back-end ou full-stack — onde eu possa aprender na prática, contribuir de verdade e crescer rápido.
+Busco meu **primeiro estágio em desenvolvimento** (Back-end ou Full-Stack), onde eu possa aplicar a lógica que venho construindo em projetos reais, contribuir ativamente com a equipe e acelerar meu avanço técnico.
 
 ---
 
